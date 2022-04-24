@@ -10,6 +10,7 @@
 
 > It will load data from the JSON files while starting up the application. 
 
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
